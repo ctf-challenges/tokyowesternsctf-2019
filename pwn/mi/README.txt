@@ -1,0 +1,1 @@
+I cloned the latest code at that time(3f43cbe6a) and built with MI_CHECK_FULL=ON
